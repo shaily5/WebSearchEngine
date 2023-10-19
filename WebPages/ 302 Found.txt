@@ -1,0 +1,2 @@
+http://www.keio.ac.jp/
+302 Found 302 Found nginx
